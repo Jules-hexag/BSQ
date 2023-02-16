@@ -1,0 +1,671 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_putchar.o",
+      "my_putchar.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_putchar.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_putchar.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_compute_power_rec.o",
+      "my_compute_power_rec.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_compute_power_rec.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_compute_power_rec.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_compute_square_root.o",
+      "my_compute_square_root.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_compute_square_root.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_compute_square_root.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_find_prime_sup.o",
+      "my_find_prime_sup.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_find_prime_sup.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_find_prime_sup.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_getnbr.o",
+      "my_getnbr.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_getnbr.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_getnbr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_isneg.o",
+      "my_isneg.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_isneg.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_isneg.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_is_prime.o",
+      "my_is_prime.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_is_prime.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_is_prime.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_put_nbr.o",
+      "my_put_nbr.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_put_nbr.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_put_nbr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_putstr.o",
+      "my_putstr.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_putstr.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_putstr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_revstr.o",
+      "my_revstr.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_revstr.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_revstr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_showmem.o",
+      "my_showmem.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_showmem.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_showmem.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_showstr.o",
+      "my_showstr.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_showstr.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_showstr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_sort_int_array.o",
+      "my_sort_int_array.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_sort_int_array.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_sort_int_array.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_strcapitalize.o",
+      "my_strcapitalize.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strcapitalize.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strcapitalize.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_strcat.o",
+      "my_strcat.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strcat.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strcat.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_strcmp.o",
+      "my_strcmp.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strcmp.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strcmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_strcpy.o",
+      "my_strcpy.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strcpy.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strcpy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_str_isalpha.o",
+      "my_str_isalpha.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_str_isalpha.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_str_isalpha.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_str_islower.o",
+      "my_str_islower.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_str_islower.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_str_islower.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_str_isnum.o",
+      "my_str_isnum.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_str_isnum.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_str_isnum.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_str_isprintable.o",
+      "my_str_isprintable.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_str_isprintable.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_str_isprintable.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_str_isupper.o",
+      "my_str_isupper.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_str_isupper.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_str_isupper.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_strlen.o",
+      "my_strlen.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strlen.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strlen.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_strlowcase.o",
+      "my_strlowcase.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strlowcase.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strlowcase.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_strncat.o",
+      "my_strncat.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strncat.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strncat.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_strncmp.o",
+      "my_strncmp.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strncmp.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strncmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_strncpy.o",
+      "my_strncpy.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strncpy.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strncpy.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_strstr.o",
+      "my_strstr.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strstr.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strstr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_strupcase.o",
+      "my_strupcase.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strupcase.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_strupcase.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_swap.o",
+      "my_swap.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_swap.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_swap.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_char.o",
+      "my_printf/my_printf_char.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_char.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_char.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_dbl_sequel.o",
+      "my_printf/my_printf_dbl_sequel.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_dbl_sequel.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_dbl_sequel.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_dbl.o",
+      "my_printf/my_printf_dbl.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_dbl.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_dbl.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_dbl_suite.o",
+      "my_printf/my_printf_dbl_suite.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_dbl_suite.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_dbl_suite.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_int.o",
+      "my_printf/my_printf_int.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_int.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_int.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_parse.o",
+      "my_printf/my_printf_parse.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_parse.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_parse.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_str.o",
+      "my_printf/my_printf_str.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_str.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_str.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_uint_sequel.o",
+      "my_printf/my_printf_uint_sequel.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_uint_sequel.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_uint_sequel.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_uint.o",
+      "my_printf/my_printf_uint.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_uint.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_uint.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_utils.o",
+      "my_printf/my_printf_utils.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_utils.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_utils.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf.o",
+      "my_printf/my_printf.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_putstr.o",
+      "my_printf/my_putstr.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_putstr.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_putstr.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_strlen.o",
+      "my_printf/my_strlen.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_strlen.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_strlen.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_compute_power_rec.o",
+      "my_printf/my_compute_power_rec.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_compute_power_rec.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_compute_power_rec.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_per.o",
+      "my_printf/my_printf_per.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_per.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_per.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_strncmp.o",
+      "my_printf/my_strncmp.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_strncmp.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_strncmp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-c",
+      "-o",
+      "my_printf/my_printf_getpad.o",
+      "my_printf/my_printf_getpad.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_getpad.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/lib/my/my_printf/my_printf_getpad.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-ggdb3",
+      "-O2",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/src/main.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/src/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-ggdb3",
+      "-O2",
+      "-c",
+      "-o",
+      "src/bsq.o",
+      "src/bsq.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/src/bsq.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/src/bsq.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-ggdb3",
+      "-O2",
+      "-c",
+      "-o",
+      "src/create_int_array.o",
+      "src/create_int_array.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/src/create_int_array.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/src/create_int_array.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-ggdb3",
+      "-O2",
+      "-c",
+      "-o",
+      "src/create_str.o",
+      "src/create_str.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/src/create_str.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/src/create_str.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-ggdb3",
+      "-O2",
+      "-c",
+      "-o",
+      "src/search.o",
+      "src/search.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/src/search.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/src/search.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-ggdb3",
+      "-O2",
+      "-c",
+      "-o",
+      "src/display_bsq_solved.o",
+      "src/display_bsq_solved.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/src/display_bsq_solved.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/src/display_bsq_solved.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/cc",
+      "-I./include",
+      "-ggdb3",
+      "-O2",
+      "-c",
+      "-o",
+      "src/generate_map.o",
+      "src/generate_map.c"
+    ],
+    "directory": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin",
+    "file": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/src/generate_map.c",
+    "output": "/home/jules/Epitech/B-CPE-110-BDX-1-1-BSQ-jules.fradin/src/generate_map.o"
+  }
+]
